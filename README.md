@@ -75,4 +75,3 @@ HTTPServer(('', 680), myhandler).serve_forever()
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
-
