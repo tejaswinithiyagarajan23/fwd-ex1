@@ -69,6 +69,7 @@ HTTPServer(('', 680), myhandler).serve_forever()
 ~~~
 
 
+
 ## OUTPUT:
 ![alt text](<Screenshot 2026-11-03 140342.png>)
 ![alt text](<Screenshot 2026-11-03 140402.png>)
